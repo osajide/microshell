@@ -1,9 +1,6 @@
-#include <stdio.h>
 #include <stdlib.h>
-#include <sys/_types/_sigaltstack.h>
 #include <unistd.h>
 #include <string.h>
-#include<sys/wait.h>
 
 int	ft_strlen(char *s)
 {
